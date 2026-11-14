@@ -1,0 +1,74 @@
+Dragon.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+DRAGON_art
+bounds: 2, 2, 173, 189
+DRAGON_rim00
+bounds: 388, 291, 81, 61
+DRAGON_rim01
+bounds: 100, 291, 60, 72
+DRAGON_rim02
+bounds: 435, 193, 43, 75
+DRAGON_rim03
+bounds: 162, 291, 80, 72
+DRAGON_rim04
+bounds: 350, 193, 67, 83
+DRAGON_rim05
+bounds: 326, 291, 60, 62
+DRAGON_rim06
+bounds: 2, 291, 80, 75
+DRAGON_rim07
+bounds: 211, 368, 150, 34
+DRAGON_rim08
+bounds: 169, 193, 83, 91
+DRAGON_rim09
+bounds: 349, 2, 49, 104
+DRAGON_rim10
+bounds: 98, 193, 53, 93
+DRAGON_rim11
+bounds: 84, 368, 87, 46
+DRAGON_st00
+bounds: 405, 368, 14, 21
+DRAGON_st01
+bounds: 244, 291, 14, 72
+DRAGON_st02
+bounds: 318, 193, 14, 85
+DRAGON_st03
+bounds: 302, 193, 14, 86
+DRAGON_st04
+bounds: 153, 193, 14, 92
+DRAGON_st05
+bounds: 254, 193, 14, 90
+DRAGON_st06
+bounds: 270, 193, 14, 90
+DRAGON_st07
+bounds: 286, 193, 14, 87
+DRAGON_st08
+bounds: 334, 193, 14, 84
+DRAGON_st09
+bounds: 419, 193, 14, 79
+DRAGON_st10
+bounds: 84, 291, 14, 75
+DRAGON_st11
+bounds: 68, 368, 14, 51
+DRAGON_st12
+bounds: 363, 368, 14, 32
+DRAGON_st13
+bounds: 421, 368, 14, 16
+fx_bloom
+bounds: 400, 2, 96, 96
+fx_bolt
+bounds: 307, 2, 40, 112
+fx_crackle
+bounds: 2, 368, 64, 61
+fx_dot
+bounds: 379, 368, 24, 24
+fx_flash
+bounds: 2, 193, 94, 96
+fx_leaf
+bounds: 173, 368, 36, 40
+fx_ring
+bounds: 177, 2, 128, 127
+fx_star
+bounds: 260, 291, 64, 64

@@ -1,0 +1,70 @@
+Scatter.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+TALISMAN_art
+bounds: 2, 2, 169, 189
+TALISMAN_glyph
+bounds: 46, 292, 71, 83
+TALISMAN_glyphhalo
+bounds: 2, 193, 85, 97
+TALISMAN_rim00
+bounds: 271, 378, 62, 47
+TALISMAN_rim01
+bounds: 334, 193, 57, 86
+TALISMAN_rim02
+bounds: 283, 193, 49, 93
+TALISMAN_rim03
+bounds: 133, 378, 56, 57
+TALISMAN_rim04
+bounds: 68, 378, 63, 63
+TALISMAN_rim05
+bounds: 207, 378, 62, 49
+TALISMAN_rim06
+bounds: 183, 292, 66, 73
+TALISMAN_rim07
+bounds: 2, 292, 42, 84
+TALISMAN_rim08
+bounds: 409, 193, 61, 85
+TALISMAN_rim09
+bounds: 407, 292, 55, 65
+TALISMAN_rim10
+bounds: 251, 292, 50, 70
+TALISMAN_rim11
+bounds: 335, 292, 54, 68
+TALISMAN_st00
+bounds: 360, 378, 14, 11
+TALISMAN_st01
+bounds: 391, 292, 14, 67
+TALISMAN_st02
+bounds: 303, 292, 14, 70
+TALISMAN_st03
+bounds: 319, 292, 14, 70
+TALISMAN_st04
+bounds: 151, 292, 14, 77
+TALISMAN_st05
+bounds: 135, 292, 14, 79
+TALISMAN_st06
+bounds: 167, 292, 14, 76
+TALISMAN_st07
+bounds: 119, 292, 14, 81
+TALISMAN_st08
+bounds: 393, 193, 14, 86
+TALISMAN_st09
+bounds: 472, 193, 14, 85
+TALISMAN_st10
+bounds: 191, 378, 14, 54
+TALISMAN_st11
+bounds: 376, 378, 14, 3
+fx_bloom
+bounds: 89, 193, 96, 96
+fx_flake
+bounds: 335, 378, 23, 32
+fx_flash
+bounds: 187, 193, 94, 96
+fx_ring
+bounds: 335, 2, 128, 127
+fx_rune
+bounds: 173, 2, 160, 160
+fx_star
+bounds: 2, 378, 64, 64

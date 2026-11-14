@@ -1,0 +1,70 @@
+Coin.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+COIN_art
+bounds: 2, 2, 182, 183
+COIN_holeglow
+bounds: 310, 277, 43, 42
+COIN_rim00
+bounds: 2, 326, 82, 19
+COIN_rim01
+bounds: 147, 277, 71, 45
+COIN_rim02
+bounds: 282, 187, 46, 72
+COIN_rim03
+bounds: 98, 187, 19, 81
+COIN_rim04
+bounds: 188, 187, 45, 73
+COIN_rim05
+bounds: 2, 277, 71, 47
+COIN_rim06
+bounds: 413, 277, 82, 20
+COIN_rim07
+bounds: 220, 277, 72, 45
+COIN_rim08
+bounds: 330, 187, 46, 72
+COIN_rim09
+bounds: 119, 187, 19, 81
+COIN_rim10
+bounds: 235, 187, 45, 73
+COIN_rim11
+bounds: 75, 277, 70, 47
+COIN_st00
+bounds: 294, 277, 14, 45
+COIN_st01
+bounds: 460, 187, 14, 62
+COIN_st02
+bounds: 172, 187, 14, 74
+COIN_st03
+bounds: 140, 187, 14, 81
+COIN_st04
+bounds: 66, 187, 14, 85
+COIN_st05
+bounds: 2, 187, 14, 88
+COIN_st06
+bounds: 18, 187, 14, 88
+COIN_st07
+bounds: 34, 187, 14, 88
+COIN_st08
+bounds: 50, 187, 14, 86
+COIN_st09
+bounds: 82, 187, 14, 83
+COIN_st10
+bounds: 156, 187, 14, 77
+COIN_st11
+bounds: 378, 187, 14, 68
+COIN_st12
+bounds: 476, 187, 14, 53
+COIN_st13
+bounds: 397, 277, 14, 26
+fx_bloom
+bounds: 316, 2, 96, 96
+fx_flash
+bounds: 414, 2, 94, 96
+fx_ring
+bounds: 186, 2, 128, 127
+fx_star
+bounds: 394, 187, 64, 64
+fx_twinkle
+bounds: 355, 277, 40, 40

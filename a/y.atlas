@@ -1,0 +1,72 @@
+Fox.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+FOX_art
+bounds: 2, 2, 154, 189
+FOX_rim00
+bounds: 282, 289, 64, 42
+FOX_rim01
+bounds: 216, 289, 64, 45
+FOX_rim02
+bounds: 250, 193, 38, 76
+FOX_rim03
+bounds: 42, 193, 26, 90
+FOX_rim04
+bounds: 86, 193, 43, 85
+FOX_rim05
+bounds: 2, 289, 51, 62
+FOX_rim06
+bounds: 425, 289, 71, 27
+FOX_rim07
+bounds: 120, 289, 78, 46
+FOX_rim08
+bounds: 131, 193, 42, 83
+FOX_rim09
+bounds: 2, 193, 22, 94
+FOX_rim10
+bounds: 207, 193, 41, 77
+FOX_rim11
+bounds: 348, 289, 59, 42
+FOX_st00
+bounds: 2, 353, 14, 24
+FOX_st01
+bounds: 200, 289, 14, 46
+FOX_st02
+bounds: 71, 289, 14, 48
+FOX_st03
+bounds: 322, 193, 14, 72
+FOX_st04
+bounds: 290, 193, 14, 76
+FOX_st05
+bounds: 175, 193, 14, 81
+FOX_st06
+bounds: 70, 193, 14, 86
+FOX_st07
+bounds: 482, 2, 14, 95
+FOX_st08
+bounds: 26, 193, 14, 93
+FOX_st09
+bounds: 191, 193, 14, 80
+FOX_st10
+bounds: 306, 193, 14, 73
+FOX_st11
+bounds: 55, 289, 14, 56
+FOX_st12
+bounds: 409, 289, 14, 32
+fx_bloom
+bounds: 288, 2, 96, 96
+fx_dot
+bounds: 18, 353, 24, 24
+fx_drop
+bounds: 87, 289, 31, 48
+fx_flash
+bounds: 386, 2, 94, 96
+fx_ring
+bounds: 158, 2, 128, 127
+fx_star
+bounds: 338, 193, 64, 64
+fx_tongue
+bounds: 404, 193, 40, 64
+fx_tongue2
+bounds: 446, 193, 28, 64

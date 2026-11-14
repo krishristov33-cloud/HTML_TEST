@@ -1,0 +1,40 @@
+Q.png
+size: 256, 512
+filter: Linear, Linear
+pma: true
+Q_art
+bounds: 2, 2, 161, 189
+Q_st00
+bounds: 104, 420, 16, 46
+Q_st01
+bounds: 68, 420, 16, 63
+Q_st02
+bounds: 188, 322, 16, 73
+Q_st03
+bounds: 152, 322, 16, 79
+Q_st04
+bounds: 98, 322, 16, 81
+Q_st05
+bounds: 116, 322, 16, 81
+Q_st06
+bounds: 134, 322, 16, 80
+Q_st07
+bounds: 170, 322, 16, 76
+Q_st08
+bounds: 206, 322, 16, 70
+Q_st09
+bounds: 86, 420, 16, 62
+Q_st10
+bounds: 122, 420, 16, 42
+Q_st11
+bounds: 165, 420, 16, 24
+fx_bloom
+bounds: 132, 193, 96, 96
+fx_flake
+bounds: 140, 420, 23, 32
+fx_flash
+bounds: 2, 322, 94, 96
+fx_ring
+bounds: 2, 193, 128, 127
+fx_star
+bounds: 2, 420, 64, 64

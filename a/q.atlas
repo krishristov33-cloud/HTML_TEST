@@ -1,0 +1,68 @@
+Crane.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+CRANE_art
+bounds: 2, 2, 182, 155
+CRANE_rim00
+bounds: 145, 330, 61, 41
+CRANE_rim01
+bounds: 18, 257, 94, 67
+CRANE_rim02
+bounds: 411, 159, 62, 72
+CRANE_rim03
+bounds: 267, 159, 43, 75
+CRANE_rim04
+bounds: 436, 257, 63, 49
+CRANE_rim05
+bounds: 260, 257, 78, 53
+CRANE_rim06
+bounds: 84, 330, 59, 42
+CRANE_rim07
+bounds: 18, 330, 64, 43
+CRANE_rim08
+bounds: 359, 159, 50, 73
+CRANE_rim09
+bounds: 196, 159, 53, 87
+CRANE_rim10
+bounds: 340, 257, 94, 53
+CRANE_rim11
+bounds: 312, 159, 45, 74
+CRANE_st00
+bounds: 224, 330, 14, 33
+CRANE_st01
+bounds: 114, 257, 14, 64
+CRANE_st02
+bounds: 475, 159, 14, 71
+CRANE_st03
+bounds: 491, 159, 14, 71
+CRANE_st04
+bounds: 251, 159, 14, 77
+CRANE_st05
+bounds: 2, 257, 14, 71
+CRANE_st06
+bounds: 196, 257, 14, 62
+CRANE_st07
+bounds: 212, 257, 14, 61
+CRANE_st08
+bounds: 228, 257, 14, 59
+CRANE_st09
+bounds: 244, 257, 14, 54
+CRANE_st10
+bounds: 2, 330, 14, 45
+CRANE_st11
+bounds: 208, 330, 14, 40
+fx_bloom
+bounds: 2, 159, 96, 96
+fx_dot
+bounds: 265, 330, 24, 24
+fx_flake
+bounds: 240, 330, 23, 32
+fx_flash
+bounds: 100, 159, 94, 96
+fx_gust
+bounds: 316, 2, 112, 105
+fx_ring
+bounds: 186, 2, 128, 127
+fx_star
+bounds: 130, 257, 64, 64

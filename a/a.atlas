@@ -1,0 +1,44 @@
+K.png
+size: 256, 512
+filter: Linear, Linear
+pma: true
+K_art
+bounds: 2, 2, 162, 189
+K_st00
+bounds: 218, 420, 16, 16
+K_st01
+bounds: 182, 420, 16, 32
+K_st02
+bounds: 86, 420, 16, 52
+K_st03
+bounds: 2, 420, 16, 73
+K_st04
+bounds: 214, 322, 16, 89
+K_st05
+bounds: 132, 193, 16, 101
+K_st06
+bounds: 150, 193, 16, 100
+K_st07
+bounds: 168, 193, 16, 97
+K_st08
+bounds: 196, 322, 16, 92
+K_st09
+bounds: 232, 322, 16, 80
+K_st10
+bounds: 146, 420, 16, 35
+K_st11
+bounds: 164, 420, 16, 33
+K_st12
+bounds: 200, 420, 16, 26
+K_st13
+bounds: 236, 420, 16, 7
+fx_bloom
+bounds: 2, 322, 96, 96
+fx_flash
+bounds: 100, 322, 94, 96
+fx_ring
+bounds: 2, 193, 128, 127
+fx_star
+bounds: 20, 420, 64, 64
+fx_twinkle
+bounds: 104, 420, 40, 40

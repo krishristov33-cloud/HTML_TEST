@@ -1,0 +1,80 @@
+Wild.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+NINJA_art
+bounds: 2, 2, 164, 189
+NINJA_eyeglow
+bounds: 221, 358, 75, 25
+NINJA_rim00
+bounds: 298, 358, 93, 25
+NINJA_rim01
+bounds: 2, 358, 79, 36
+NINJA_rim02
+bounds: 413, 193, 29, 86
+NINJA_rim03
+bounds: 460, 2, 17, 100
+NINJA_rim04
+bounds: 324, 193, 27, 88
+NINJA_rim05
+bounds: 296, 292, 78, 37
+NINJA_rim06
+bounds: 393, 358, 95, 23
+NINJA_rim07
+bounds: 83, 358, 79, 36
+NINJA_rim08
+bounds: 353, 193, 28, 87
+NINJA_rim09
+bounds: 479, 2, 17, 100
+NINJA_rim10
+bounds: 383, 193, 28, 87
+NINJA_rim11
+bounds: 376, 292, 78, 37
+NINJA_st00
+bounds: 490, 358, 14, 17
+NINJA_st01
+bounds: 164, 358, 14, 36
+NINJA_st02
+bounds: 264, 292, 14, 54
+NINJA_st03
+bounds: 444, 193, 14, 76
+NINJA_st04
+bounds: 292, 193, 14, 95
+NINJA_st05
+bounds: 2, 193, 14, 97
+NINJA_st06
+bounds: 18, 193, 14, 97
+NINJA_st07
+bounds: 34, 193, 14, 97
+NINJA_st08
+bounds: 50, 193, 14, 97
+NINJA_st09
+bounds: 66, 193, 14, 96
+NINJA_st10
+bounds: 82, 193, 14, 96
+NINJA_st11
+bounds: 308, 193, 14, 89
+NINJA_st12
+bounds: 460, 193, 14, 68
+NINJA_st13
+bounds: 280, 292, 14, 48
+NINJA_st14
+bounds: 205, 358, 14, 30
+NINJA_st15
+bounds: 2, 396, 14, 11
+fx_bloom
+bounds: 98, 193, 96, 96
+fx_flake
+bounds: 180, 358, 23, 32
+fx_flash
+bounds: 196, 193, 94, 96
+fx_puff
+bounds: 68, 292, 64, 56
+fx_ring
+bounds: 330, 2, 128, 127
+fx_slash
+bounds: 168, 2, 160, 154
+fx_star
+bounds: 2, 292, 64, 64
+fx_streak
+bounds: 134, 292, 128, 55

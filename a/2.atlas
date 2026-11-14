@@ -1,0 +1,38 @@
+J.png
+size: 256, 512
+filter: Linear, Linear
+pma: true
+J_art
+bounds: 2, 2, 142, 189
+J_st00
+bounds: 186, 420, 16, 20
+J_st01
+bounds: 2, 420, 16, 73
+J_st02
+bounds: 232, 322, 16, 84
+J_st03
+bounds: 196, 322, 16, 92
+J_st04
+bounds: 168, 193, 16, 98
+J_st05
+bounds: 132, 193, 16, 100
+J_st06
+bounds: 150, 193, 16, 99
+J_st07
+bounds: 214, 322, 16, 90
+J_st08
+bounds: 86, 420, 16, 59
+J_st09
+bounds: 142, 420, 16, 36
+fx_bloom
+bounds: 2, 322, 96, 96
+fx_dot
+bounds: 160, 420, 24, 24
+fx_flash
+bounds: 100, 322, 94, 96
+fx_leaf
+bounds: 104, 420, 36, 40
+fx_ring
+bounds: 2, 193, 128, 127
+fx_star
+bounds: 20, 420, 64, 64

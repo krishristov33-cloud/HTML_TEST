@@ -1,0 +1,40 @@
+A.png
+size: 256, 512
+filter: Linear, Linear
+pma: true
+A_art
+bounds: 2, 2, 182, 187
+A_st00
+bounds: 2, 418, 16, 80
+A_st01
+bounds: 214, 320, 16, 91
+A_st02
+bounds: 132, 191, 16, 96
+A_st03
+bounds: 150, 191, 16, 96
+A_st04
+bounds: 196, 320, 16, 94
+A_st05
+bounds: 232, 320, 16, 85
+A_st06
+bounds: 104, 418, 16, 52
+A_st07
+bounds: 86, 418, 16, 54
+A_st08
+bounds: 122, 418, 16, 48
+A_st09
+bounds: 140, 418, 16, 40
+A_st10
+bounds: 158, 418, 16, 28
+A_st11
+bounds: 202, 418, 16, 16
+fx_bloom
+bounds: 2, 320, 96, 96
+fx_dot
+bounds: 176, 418, 24, 24
+fx_flash
+bounds: 100, 320, 94, 96
+fx_ring
+bounds: 2, 191, 128, 127
+fx_star
+bounds: 20, 418, 64, 64

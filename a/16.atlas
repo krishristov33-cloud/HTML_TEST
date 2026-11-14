@@ -1,0 +1,78 @@
+OniMask.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+ONI_MASK_art
+bounds: 2, 2, 169, 189
+ONI_MASK_rim00
+bounds: 198, 290, 62, 50
+ONI_MASK_rim01
+bounds: 70, 193, 33, 93
+ONI_MASK_rim02
+bounds: 2, 193, 34, 95
+ONI_MASK_rim03
+bounds: 298, 193, 37, 79
+ONI_MASK_rim04
+bounds: 2, 352, 92, 35
+ONI_MASK_rim05
+bounds: 259, 352, 100, 25
+ONI_MASK_rim06
+bounds: 262, 290, 69, 44
+ONI_MASK_rim07
+bounds: 196, 193, 32, 86
+ONI_MASK_rim08
+bounds: 105, 193, 25, 90
+ONI_MASK_rim09
+bounds: 246, 193, 34, 81
+ONI_MASK_rim10
+bounds: 349, 290, 80, 40
+ONI_MASK_rim11
+bounds: 137, 352, 93, 30
+ONI_MASK_st00
+bounds: 361, 352, 14, 18
+ONI_MASK_st01
+bounds: 116, 290, 14, 56
+ONI_MASK_st02
+bounds: 337, 193, 14, 72
+ONI_MASK_st03
+bounds: 230, 193, 14, 86
+ONI_MASK_st04
+bounds: 148, 193, 14, 88
+ONI_MASK_st05
+bounds: 164, 193, 14, 88
+ONI_MASK_st06
+bounds: 180, 193, 14, 88
+ONI_MASK_st07
+bounds: 38, 193, 14, 94
+ONI_MASK_st08
+bounds: 54, 193, 14, 94
+ONI_MASK_st09
+bounds: 132, 193, 14, 90
+ONI_MASK_st10
+bounds: 282, 193, 14, 80
+ONI_MASK_st11
+bounds: 353, 193, 14, 64
+ONI_MASK_st12
+bounds: 333, 290, 14, 43
+ONI_MASK_st13
+bounds: 96, 352, 14, 33
+ONI_MASK_st14
+bounds: 377, 352, 14, 12
+fx_bloom
+bounds: 303, 2, 96, 96
+fx_flake
+bounds: 112, 352, 23, 32
+fx_flash
+bounds: 401, 2, 94, 96
+fx_glow
+bounds: 369, 193, 64, 64
+fx_ground
+bounds: 2, 290, 112, 60
+fx_puff
+bounds: 132, 290, 64, 56
+fx_ring
+bounds: 173, 2, 128, 127
+fx_star
+bounds: 435, 193, 64, 64
+fx_stone
+bounds: 232, 352, 25, 30

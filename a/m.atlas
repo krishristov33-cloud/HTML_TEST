@@ -1,0 +1,64 @@
+Ghost.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+GHOST_art
+bounds: 2, 2, 120, 189
+GHOST_lids
+bounds: 229, 267, 67, 26
+GHOST_rim00
+bounds: 180, 267, 31, 38
+GHOST_rim01
+bounds: 310, 193, 30, 62
+GHOST_rim02
+bounds: 461, 193, 46, 55
+GHOST_rim03
+bounds: 342, 193, 48, 62
+GHOST_rim04
+bounds: 2, 193, 21, 72
+GHOST_rim05
+bounds: 2, 267, 55, 55
+GHOST_rim06
+bounds: 324, 267, 71, 21
+GHOST_rim07
+bounds: 103, 267, 59, 49
+GHOST_rim08
+bounds: 25, 193, 22, 72
+GHOST_rim09
+bounds: 49, 193, 37, 70
+GHOST_rim10
+bounds: 392, 193, 51, 57
+GHOST_rim11
+bounds: 59, 267, 42, 54
+GHOST_st00
+bounds: 480, 2, 14, 75
+GHOST_st01
+bounds: 448, 2, 14, 82
+GHOST_st02
+bounds: 464, 2, 14, 82
+GHOST_st03
+bounds: 88, 193, 14, 69
+GHOST_st04
+bounds: 104, 193, 14, 69
+GHOST_st05
+bounds: 120, 193, 14, 64
+GHOST_st06
+bounds: 445, 193, 14, 56
+GHOST_st07
+bounds: 164, 267, 14, 47
+GHOST_st08
+bounds: 213, 267, 14, 33
+fx_bloom
+bounds: 254, 2, 96, 96
+fx_dot
+bounds: 298, 267, 24, 24
+fx_flash
+bounds: 352, 2, 94, 96
+fx_glow
+bounds: 136, 193, 64, 64
+fx_ring
+bounds: 124, 2, 128, 127
+fx_star
+bounds: 202, 193, 64, 64
+fx_tongue
+bounds: 268, 193, 40, 64

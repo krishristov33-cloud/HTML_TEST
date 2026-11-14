@@ -1,0 +1,72 @@
+Fish.png
+size: 512, 512
+filter: Linear, Linear
+pma: true
+FISH_art
+bounds: 2, 2, 182, 181
+FISH_rim00
+bounds: 409, 283, 76, 41
+FISH_rim01
+bounds: 2, 283, 83, 67
+FISH_rim02
+bounds: 178, 185, 49, 88
+FISH_rim03
+bounds: 229, 185, 31, 85
+FISH_rim04
+bounds: 322, 283, 69, 50
+FISH_rim05
+bounds: 138, 352, 99, 26
+FISH_rim06
+bounds: 2, 352, 88, 38
+FISH_rim07
+bounds: 87, 283, 44, 67
+FISH_rim08
+bounds: 215, 283, 51, 55
+FISH_rim09
+bounds: 99, 185, 29, 95
+FISH_rim10
+bounds: 268, 283, 52, 51
+FISH_rim11
+bounds: 278, 185, 63, 77
+FISH_st00
+bounds: 239, 352, 14, 25
+FISH_st01
+bounds: 199, 283, 14, 58
+FISH_st02
+bounds: 343, 185, 14, 74
+FISH_st03
+bounds: 146, 185, 14, 91
+FISH_st04
+bounds: 130, 185, 14, 93
+FISH_st05
+bounds: 162, 185, 14, 91
+FISH_st06
+bounds: 262, 185, 14, 80
+FISH_st07
+bounds: 359, 185, 14, 74
+FISH_st08
+bounds: 391, 185, 14, 69
+FISH_st09
+bounds: 375, 185, 14, 72
+FISH_st10
+bounds: 407, 185, 14, 69
+FISH_st11
+bounds: 423, 185, 14, 68
+FISH_st12
+bounds: 393, 283, 14, 42
+FISH_st13
+bounds: 92, 352, 14, 31
+fx_bloom
+bounds: 316, 2, 96, 96
+fx_bubble
+bounds: 108, 352, 28, 28
+fx_dot
+bounds: 255, 352, 24, 24
+fx_flash
+bounds: 414, 2, 94, 96
+fx_ring
+bounds: 186, 2, 128, 127
+fx_ripple
+bounds: 2, 185, 95, 96
+fx_star
+bounds: 133, 283, 64, 64
