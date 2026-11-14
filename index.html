@@ -15,6 +15,10 @@
 <body>
   <div id="game" role="application" aria-label="Spirit Grove: The Possession Surge (hosted build)"></div>
   <div id="status">Loading…</div>
+  <script>
+    // Cache every file after the first load (Cache Storage) so reloads are instant and work offline.
+    if ('serviceWorker' in navigator) window.addEventListener('load', () => navigator.serviceWorker.register('sw.js').catch(() => {}));
+  </script>
   <script src="data.js"></script>
   <script src="player.js"></script>
 </body>
