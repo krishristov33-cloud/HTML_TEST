@@ -1,0 +1,118 @@
+SGPS_BG.png
+size: 2048, 1024
+filter: Linear, Linear
+pma: true
+firefly_dot
+bounds: 140, 862, 64, 64
+firefly_dot_fs
+bounds: 206, 862, 64, 64
+fx_bloom
+bounds: 1196, 641, 127, 128
+fx_flake
+bounds: 272, 862, 64, 58
+fx_tendril
+bounds: 936, 641, 128, 128
+glow_lantern
+bounds: 806, 641, 128, 128
+glow_lantern_fs
+bounds: 1066, 641, 128, 128
+l_ray_01
+bounds: 1101, 2, 208, 302
+l_ray_02
+bounds: 572, 369, 167, 263
+l_ray_03
+bounds: 1752, 641, 81, 82
+l_ray_04
+bounds: 337, 641, 162, 210
+l_ray_05
+bounds: 941, 369, 196, 242
+l_ray_06
+bounds: 1585, 369, 214, 227
+l_ray_07
+bounds: 632, 2, 255, 338
+l_ray_fs_01
+bounds: 889, 2, 210, 304
+l_ray_fs_02
+bounds: 399, 369, 171, 266
+l_ray_fs_03
+bounds: 1835, 641, 80, 82
+l_ray_fs_04
+bounds: 118, 641, 167, 216
+l_ray_fs_05
+bounds: 741, 369, 198, 245
+l_ray_fs_06
+bounds: 1801, 369, 214, 226
+l_ray_fs_07
+bounds: 363, 2, 267, 343
+lantern_01
+bounds: 274, 2, 87, 365
+lantern_02
+bounds: 2, 2, 89, 365
+lantern_03
+bounds: 1139, 369, 58, 235
+lantern_04
+bounds: 2, 641, 56, 219
+lantern_05
+bounds: 550, 641, 47, 192
+lantern_06
+bounds: 287, 641, 48, 213
+lantern_fs_01
+bounds: 184, 2, 88, 365
+lantern_fs_02
+bounds: 93, 2, 89, 365
+lantern_fs_03
+bounds: 1199, 369, 58, 235
+lantern_fs_04
+bounds: 60, 641, 56, 218
+lantern_fs_05
+bounds: 599, 641, 47, 192
+lantern_fs_06
+bounds: 501, 641, 47, 210
+orb_fs_01
+bounds: 1459, 641, 120, 114
+orb_fs_02
+bounds: 648, 641, 156, 147
+orb_fs_03
+bounds: 1325, 641, 132, 125
+p_ray_01
+bounds: 1491, 2, 177, 294
+p_ray_02
+bounds: 1259, 369, 161, 230
+p_ray_03
+bounds: 2, 369, 197, 270
+p_ray_04
+bounds: 1670, 2, 178, 271
+p_ray_fs_01
+bounds: 1311, 2, 178, 296
+p_ray_fs_02
+bounds: 1422, 369, 161, 230
+p_ray_fs_03
+bounds: 201, 369, 196, 269
+p_ray_fs_04
+bounds: 1850, 2, 178, 271
+sparkle_fs_01
+bounds: 338, 862, 52, 57
+sparkle_fs_02
+bounds: 1917, 641, 65, 72
+sparkle_fs_03
+bounds: 392, 862, 49, 52
+spiritmoth_01_L
+bounds: 95, 862, 43, 68
+spiritmoth_01_R
+bounds: 46, 862, 47, 68
+spiritmoth_02
+bounds: 1581, 641, 84, 96
+spiritmoth_03
+bounds: 443, 862, 39, 45
+spiritmoth_04
+bounds: 524, 862, 42, 29
+spiritmoth_fs_01_L
+bounds: 2, 862, 42, 69
+spiritmoth_fs_01_R
+bounds: 1984, 641, 48, 69
+spiritmoth_fs_02
+bounds: 1667, 641, 83, 96
+spiritmoth_fs_03
+bounds: 484, 862, 38, 45
+spiritmoth_fs_04
+bounds: 568, 862, 42, 29

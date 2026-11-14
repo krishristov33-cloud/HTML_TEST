@@ -1,80 +1,104 @@
 Wild.png
-size: 512, 512
+size: 512, 1024
 filter: Linear, Linear
 pma: true
 NINJA_art
 bounds: 2, 2, 164, 189
 NINJA_eyeglow
-bounds: 221, 358, 75, 25
+bounds: 68, 549, 75, 25
+NINJA_possart
+bounds: 168, 2, 164, 189
 NINJA_rim00
-bounds: 298, 358, 93, 25
+bounds: 145, 549, 93, 25
 NINJA_rim01
-bounds: 2, 358, 79, 36
+bounds: 212, 503, 79, 36
 NINJA_rim02
-bounds: 413, 193, 29, 86
+bounds: 317, 339, 29, 86
 NINJA_rim03
-bounds: 460, 2, 17, 100
+bounds: 277, 193, 17, 100
 NINJA_rim04
-bounds: 324, 193, 27, 88
+bounds: 228, 339, 27, 88
 NINJA_rim05
-bounds: 296, 292, 78, 37
+bounds: 52, 503, 78, 37
 NINJA_rim06
-bounds: 393, 358, 95, 23
+bounds: 240, 549, 95, 23
 NINJA_rim07
-bounds: 83, 358, 79, 36
+bounds: 293, 503, 79, 36
 NINJA_rim08
-bounds: 353, 193, 28, 87
+bounds: 257, 339, 28, 87
 NINJA_rim09
-bounds: 479, 2, 17, 100
+bounds: 296, 193, 17, 100
 NINJA_rim10
-bounds: 383, 193, 28, 87
+bounds: 287, 339, 28, 87
 NINJA_rim11
-bounds: 376, 292, 78, 37
+bounds: 132, 503, 78, 37
 NINJA_st00
-bounds: 490, 358, 14, 17
+bounds: 337, 549, 14, 17
 NINJA_st01
-bounds: 164, 358, 14, 36
+bounds: 374, 503, 14, 36
 NINJA_st02
-bounds: 264, 292, 14, 54
+bounds: 415, 437, 14, 54
 NINJA_st03
-bounds: 444, 193, 14, 76
+bounds: 348, 339, 14, 76
 NINJA_st04
-bounds: 292, 193, 14, 95
+bounds: 196, 339, 14, 95
 NINJA_st05
-bounds: 2, 193, 14, 97
+bounds: 315, 193, 14, 97
 NINJA_st06
-bounds: 18, 193, 14, 97
+bounds: 331, 193, 14, 97
 NINJA_st07
-bounds: 34, 193, 14, 97
+bounds: 347, 193, 14, 97
 NINJA_st08
-bounds: 50, 193, 14, 97
+bounds: 363, 193, 14, 97
 NINJA_st09
-bounds: 66, 193, 14, 96
+bounds: 379, 193, 14, 96
 NINJA_st10
-bounds: 82, 193, 14, 96
+bounds: 395, 193, 14, 96
 NINJA_st11
-bounds: 308, 193, 14, 89
+bounds: 212, 339, 14, 89
 NINJA_st12
-bounds: 460, 193, 14, 68
+bounds: 364, 339, 14, 68
 NINJA_st13
-bounds: 280, 292, 14, 48
+bounds: 431, 437, 14, 48
 NINJA_st14
-bounds: 205, 358, 14, 30
+bounds: 449, 503, 14, 30
 NINJA_st15
-bounds: 2, 396, 14, 11
+bounds: 353, 549, 14, 11
 fx_bloom
-bounds: 98, 193, 96, 96
+bounds: 411, 193, 96, 96
 fx_flake
-bounds: 180, 358, 23, 32
+bounds: 390, 503, 23, 32
 fx_flash
-bounds: 196, 193, 94, 96
+bounds: 2, 339, 94, 96
+fx_glow
+bounds: 380, 339, 64, 64
 fx_puff
-bounds: 68, 292, 64, 56
+bounds: 132, 437, 64, 56
 fx_ring
-bounds: 330, 2, 128, 127
+bounds: 147, 193, 128, 127
 fx_slash
-bounds: 168, 2, 160, 154
+bounds: 334, 2, 160, 154
 fx_star
-bounds: 2, 292, 64, 64
+bounds: 446, 339, 64, 64
 fx_streak
-bounds: 134, 292, 128, 55
+bounds: 285, 437, 128, 55
+px_burst
+bounds: 98, 339, 96, 96
+px_core
+bounds: 415, 503, 32, 32
+px_corona
+bounds: 2, 437, 63, 64
+px_flake
+bounds: 2, 503, 48, 44
+px_fwisp
+bounds: 198, 437, 28, 56
+px_ring
+bounds: 67, 437, 63, 64
+px_rune
+bounds: 2, 193, 143, 144
+px_streak
+bounds: 2, 549, 64, 28
+px_tendril
+bounds: 228, 437, 55, 56
+px_wisp
+bounds: 447, 437, 48, 48

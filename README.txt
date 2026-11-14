@@ -1,4 +1,4 @@
-Spirit Grove: The Possession Surge — an exported Slot Skeleton Studio game.
+Spirit Grove: The Possession Surge (hosted build) — an exported Slot Skeleton Studio game.
 
 To play:
   1. Unzip this folder.
