@@ -1,4 +1,4 @@
-const CACHE = 'sss-mwgpvyf5-1d6q5';
+const CACHE = 'sss-mwgq07fn-1d6q5';
 // big immutable assets → cache-first; everything else (html/js/css/data) → network-first
 const IMMUTABLE = (p) => /\/a\/|\.(glb|woff2?|ttf|otf|ogg|wav|mp3|m4a|png|jpe?g|webp|atlas)$/i.test(p);
 self.addEventListener('install', () => self.skipWaiting());
